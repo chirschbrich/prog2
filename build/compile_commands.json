@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/users7/cse/chirschbrich/CS3353/prog2/build",
+  "command": "/usr/local/es7/bin/g++ -g -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/graphtest.dir/MyGraph.cpp.o -c /users7/cse/chirschbrich/CS3353/prog2/MyGraph.cpp",
+  "file": "/users7/cse/chirschbrich/CS3353/prog2/MyGraph.cpp"
+},
+{
+  "directory": "/users7/cse/chirschbrich/CS3353/prog2/build",
+  "command": "/usr/local/es7/bin/g++ -g -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/graphtest.dir/prog2test.cpp.o -c /users7/cse/chirschbrich/CS3353/prog2/prog2test.cpp",
+  "file": "/users7/cse/chirschbrich/CS3353/prog2/prog2test.cpp"
+}
+]
